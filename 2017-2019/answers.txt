@@ -1,0 +1,14 @@
+<HTML>
+<BODY>
+<CENTER><H1><U>Answers</U></h1><CENTER>
+<PRE><H3>
+
+QUESTION 1.Explain HTML tags.
+
+ANSWER.<marquee behavior="scroll" direction="left" id="marquee1"><p>Press Button</p></marquee>
+<input type="button" value="Stop Marquee" onClick="document.getElementById('marquee1').stop();">
+<input type="button" value="Start Marquee" onClick="document.getElementById('marquee1').start();">
+<p><a href="http://www.way2tutorial.com/html/html_marquee_start_stop.php">Marquee Start/Stop</a></p>
+
+
+
